@@ -1,2 +1,3 @@
 # Юра Гудыменко
-[Сайт онлайн школы](Yura-Gudym.github.io/School/)
+[Сайт онлайн школы](https://yura-gudym.github.io/School/ "Описание")
+
