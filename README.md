@@ -5,4 +5,4 @@
 
 [Сайт IRONMASS](https://yura-gudym.github.io/IronMass/ "Описание")
 
-[Сайт Space X](https://https://yura-gudym.github.io/space%20X/ "Описание")
+[Сайт Space X](https://yura-gudym.github.io/space%20X/ "Описание")
