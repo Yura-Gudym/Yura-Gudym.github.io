@@ -5,4 +5,8 @@
 
 [Сайт IRONMASS](https://yura-gudym.github.io/IronMass/ "Описание")
 
+[Сайт Barbershop](https://yura-gudym.github.io/Barbershop/ "Описание")
+
+[Сайт Cleaning](https://yura-gudym.github.io/Cleaning/ "Описание")
+
 [Сайт Space X](https://yura-gudym.github.io/space%20X/ "Описание")
