@@ -9,4 +9,4 @@
 
 [Сайт Cleaning](https://yura-gudym.github.io/Cleaning/ "Описание")
 
-[Сайт Space X](https://yura-gudym.github.io/space%20X/ "Описание")
+[Сайт Прин Бюро](https://yura-gudym.github.io/Print-buro/ "Описание")
